@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_default_normal.9.png",
+        "source": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/src/main/res/drawable-hdpi/btn_default_normal.9.png"
+    },
+    {
+        "merged": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_default_normal_disable.9.png",
+        "source": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/src/main/res/drawable-hdpi/btn_default_normal_disable.9.png"
+    },
+    {
+        "merged": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_default_selected.9.png",
+        "source": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/src/main/res/drawable-hdpi/btn_default_selected.9.png"
+    },
+    {
+        "merged": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_default_pressed.9.png",
+        "source": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/src/main/res/drawable-hdpi/btn_default_pressed.9.png"
+    },
+    {
+        "merged": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_default_normal_disable_focused.9.png",
+        "source": "/Users/bowenwang/Dev/github/Activities-LaunchMode-demo/app/src/main/res/drawable-hdpi/btn_default_normal_disable_focused.9.png"
+    }
+]
